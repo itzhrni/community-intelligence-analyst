@@ -1,4 +1,3 @@
-Here is a professional and comprehensive `README.md` text content for your GitHub repository:
 
 ```markdown
 # Shadow-Net: Cross-Dataset Community Intelligence Analyst Console
